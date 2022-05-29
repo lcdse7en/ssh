@@ -31,6 +31,9 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTskWaK+6GRkeXdeHx8A1emtcUqp3P3I43ZxPJ4U92
 
 #### 7.git命令
 ```shell
+git config --global user.email "2353442022@qq.com"
+git config --global user.name "lcdse7en"
+
 git add .
 git status
 git commit -m 'first
