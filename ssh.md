@@ -29,7 +29,12 @@ cat ~/.ssh/id_rsa.pub
 ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDTskWaK+6GRkeXdeHx8A1emtcUqp3P3I43ZxPJ4U929tojPW9q1/x7JxJjJbxp+P1HA1AmBHmc3J2T9Mx4qj5VaqGmp3gtL+iV/VaIOcEH+nXq6jCPUy8QzFbTq6wX3u6pRyhZp+VvVG50q+My4aZqR5fGdXlPyACnaWe+QxXip/AQ3TRw3QNgKqg/lMGNDz5TIH9D9+zxtVCMJkzuA4J1qawS10efKbop4IVkV31F0PqpZVuxih5sD7V+Ft0rr2sJNvG+04XAonVsWePi+IT066lIKDFlYWdQnDGc+PcTjyfwpGUaJ1V/87edg7rJ+IFyQns0dCMp+YS2SD6d6UOGuPpaLVJX13GaOlqCwNmELGgh6AXqB4WtO2Ev/TJ+du1idqyK39UrqW4hAVlurhGakKHn0UTmpQcFlG/J7/6xj8W0ruRNpka5fizH6sW96f3uwVqTpdX7e4AiaKjQC21ZbTfqzFYUpwHYT4mOwI6dKY5VhfDBnno5dLvspWFjFAU= se7en@se7en-pc
 ```
 
-#### 7.git命令
+#### 7.clone
+```sh
+git clone git@github.com:lcdse7en/ssh.git
+```
+
+#### 8.git命令
 ```shell
 git config --global user.email "2353442022@qq.com"
 git config --global user.name "lcdse7en"
